@@ -91,3 +91,23 @@ body{
     display: flex;
     align-items: end;
 }
+.footer_container{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.footer_container li{
+    list-style: none;
+}
+.redes_container ul {
+    display: flex;
+    flex-direction: row;
+}
+.redes_container li {
+    margin: 0 2vh;
+}
+.footer_li{
+    display: flex;
+    
+    flex-direction: column;
+}
